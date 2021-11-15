@@ -92,11 +92,7 @@ p {
   box-shadow: 2px 2px var(--dark);
 }
 
-.hero {
-  padding: 3% 4%;
-  background-color: var(--dark);
-  color: var(--primary);
-}
+
 
 .hero p {
   max-width: 75%;
